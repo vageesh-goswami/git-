@@ -1,0 +1,26 @@
+{
+  "name": "git-",
+  "version": "1.0.0",
+  "description": "Contribution: 2025-05-27 20:00",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vageesh-goswami/git-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vageesh-goswami/git-/issues"
+  },
+  "homepage": "https://github.com/vageesh-goswami/git-#readme",
+  "devDependencies": {
+    "vite": "^8.0.8"
+  }
+}
