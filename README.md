@@ -412,5 +412,15 @@ Contribution: 2025-11-18 20:03
 
 Contribution: 2025-11-19 20:00
 
-Contribution: 2025-11-19 20:01
+# Shri Vallabh Pathshala Web
 
+## Scripts
+- `npm install` — install dependencies
+- `npm run dev` — start local preview (Vite)
+- `npm run build` — produce static assets in `dist/`
+- `npm run preview` — preview the production build
+
+## Deploy
+Serve the generated `dist/` directory on any static host (e.g., GitHub Pages, Netlify, Vercel static export). Build with `npm run build` before deployment.
+
+Contribution: 2025-11-19 20:01
